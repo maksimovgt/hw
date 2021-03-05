@@ -1,5 +1,7 @@
-s = int(input('введите секунды: '))
-m = s / 60
-h = s / 60 / 60
+time = int(input('введите секунды: '))
+hours = time // 3600
+minutes = (time // 60) - (hours * 60)
+seconds = time % 60
 
-print("%d:%d:%d" % (h, m, s))
+print(f"{hours:02}:{minutes:02}:{seconds:02}")
+
