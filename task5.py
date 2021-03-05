@@ -10,3 +10,4 @@ if income > costs:
 
 else:
     print('Фирма в убытке')
+# на проверку
