@@ -17,3 +17,5 @@ if n in range(7, 9):
     print(f'Сезон выбранного месяца - {season.get(3)}')
 if n in range(10, 12):
     print(f'Сезон выбранного месяца - {season.get(4)}')
+
+# на проверку
