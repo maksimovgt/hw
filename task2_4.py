@@ -6,5 +6,4 @@ for i, word in enumerate(str1, 10):
     else:
         print(word[:10])
 
-
 # на проверку
