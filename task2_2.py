@@ -6,3 +6,5 @@ while i + 1 < len(l1):
         l1.insert(i, l1.pop(i + 1))
     i += 1
 print(l1)
+
+#на проверку
