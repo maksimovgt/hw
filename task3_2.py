@@ -1,5 +1,11 @@
-# def person(name, lastname, bday, city, email, phone):
-def person(name):
-    return input(f'name -',name)
+def person(**kwargs):
+    return kwargs
 
-print(person())
+print(person(
+    name=input('Имя - '),
+    lname=input('Фамилия - '),
+    bday=input('дата рождения - '),
+    city=input('город - '),
+    email=input('эл.почта - '),
+    phone=input('телефон - ')
+))
