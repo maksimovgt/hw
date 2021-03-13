@@ -7,3 +7,5 @@ words = input('Введите слова через пробел - ').split()
 for i in words:
     w = int_func(i)
     print(int_func(w))
+
+#на проверку

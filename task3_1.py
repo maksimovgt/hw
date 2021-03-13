@@ -10,3 +10,5 @@ def divison(a, b):
         return a / b
 
 print(divison(input('Введите 1-ю переменную: '), input('Введите 2-ю переменую: ')))
+
+#на проверку

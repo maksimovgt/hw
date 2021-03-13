@@ -9,3 +9,5 @@ print(person(
     email=input('эл.почта - '),
     phone=input('телефон - ')
 ))
+
+#на проверку

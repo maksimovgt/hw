@@ -14,3 +14,5 @@ def sum_str():
         print(f'Сумма чисел в строке = {summa}')
 
 sum_str()
+
+#на проверку
