@@ -12,3 +12,4 @@ quit = None
 while quit != 'q':
     print(next(i), end='')
     quit = input()
+#на проверку

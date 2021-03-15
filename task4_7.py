@@ -9,3 +9,4 @@ def factorial(num):
 
 for el in factorial(int(input('Факториал числа - '))):
     print(el)
+#на проверку
