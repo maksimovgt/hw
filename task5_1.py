@@ -1,4 +1,4 @@
-with open('file.txt', 'w', encoding='utf-8') as file:
+with open('file1.txt', 'w', encoding='utf-8') as file:
     while True:
         line = input('Введите новую строку: ')
         if not line:
