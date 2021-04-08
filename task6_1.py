@@ -17,5 +17,3 @@ class TrafficLight:
 
 svetofor = TrafficLight()
 svetofor.running()
-
-
