@@ -1,5 +1,5 @@
 from time import sleep
-
+import os
 
 class TrafficLight:
 
@@ -13,6 +13,7 @@ class TrafficLight:
             sleep(7)
             print(('\033[33m {}'.format('Желтый')))
             sleep(2)
+
 
 
 svetofor = TrafficLight()
